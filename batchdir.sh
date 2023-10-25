@@ -1,0 +1,7 @@
+mkdir dynamicProgramming
+mkdir machineLearning
+mkdir reinforcementLearning
+mkdir mixedIntegerProgramming
+mkdir nonLinearProgramming
+mkdir stocasticProgramming
+
